@@ -20,6 +20,7 @@
 - **中文版**: 默认显示中文简历内容
 - **英文版**: 自动翻译为英文版本
 - **URL参数控制**: 通过 `?lang=en` 切换语言
+- **仅支持Chrome 138+**
 
 ### 📝 Markdown支持
 - 使用 `marked.js` 解析Markdown语法
@@ -40,8 +41,8 @@
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/resume-display.git
-cd resume-display
+git clone https://github.com/yourusername/resume.git
+cd resume
 ```
 
 ### 2. 编辑简历内容

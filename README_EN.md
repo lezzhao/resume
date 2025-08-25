@@ -20,6 +20,7 @@ A static personal resume display system based on HTML5, supporting Markdown form
 - **Chinese Version**: Default display of Chinese resume content
 - **English Version**: Automatic translation to English
 - **URL Parameter Control**: Switch languages via `?lang=en`
+- **Chrome 138+ Only**
 
 ### 📝 Markdown Support
 - Uses `marked.js` to parse Markdown syntax
@@ -40,8 +41,8 @@ A static personal resume display system based on HTML5, supporting Markdown form
 
 ### 1. Clone Project
 ```bash
-git clone https://github.com/yourusername/resume-display.git
-cd resume-display
+git clone https://github.com/yourusername/resume.git
+cd resume
 ```
 
 ### 2. Edit Resume Content
