@@ -5,7 +5,7 @@
 ---
 
 ## 技术栈
-Javascript ｜ Typescript ｜ Vue全家桶 ｜ node.js
+Javascript ｜ Typescript ｜ Vue3 ｜ node.js ｜ uniapp ｜ pinia ｜ tailwind
 
 ---
 
